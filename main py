@@ -1,0 +1,3 @@
+age = 30
+name = "profe python"
+print("Hola " + name + " , tienes 5 " + age + " años.")
